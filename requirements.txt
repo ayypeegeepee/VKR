@@ -1,0 +1,7 @@
+open3d==0.15.1
+numba==0.55.1
+laspy==2.1.2
+pyntcloud==0.2.0
+pylas==0.4.3
+matplotlib==3.5.2
+scikit-learn==1.0.2
